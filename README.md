@@ -19,6 +19,19 @@ Thanks @DataWithDanny for the excellent SQL case studies!
 
 <img src="https://user-images.githubusercontent.com/81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
 
+## Introduction 
+Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
+
+Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
+
+### Questions & Dataset
+- [Click Here](https://8weeksqlchallenge.com/case-study-1/)
+
+### My Solutions
+
+
+
+
 ## Case Study #2: Pizza Runner
 
 <img src="https://user-images.githubusercontent.com/81607668/127271856-3c0d5b4a-baab-472c-9e24-3c1e3c3359b2.png" alt="Image" width="500" height="520">
