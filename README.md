@@ -29,7 +29,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
 ### My Solutions
 
-
+- [Click Here](https://github.com/emmanguyen0602/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/SQL%20codes/Case%20Study%201%20Danny's%20Dinner.sql)
 
 
 ## Case Study #2: Pizza Runner
