@@ -11,6 +11,7 @@ Thanks @DataWithDanny for the excellent SQL case studies!
 - [Case Study #4: Data Bank](#case-study-4-data-bank)
 - [Case Study #5: Data Mart](#case-study-5-data-mart)
 - [Case Study #6: Clique Bait](#case-study-6-clique-bait)
+- [Case Study #7: Balanced Tree Clothing Co](#case-study-7-balanced-tree-clothing-co)
 - [Case Study #8: Fresh Segments](#case-study-8-fresh-segments)
 
 ***
@@ -51,6 +52,10 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 ## Case Study #6: Clique Bait
 
 <img src="https://user-images.githubusercontent.com/81607668/134615258-d1108e0d-0816-4cd7-a972-d45580f82352.png" alt="Image" width="500" height="520">
+
+## Case Study #7: Balanced Tree Clothing Co
+
+<img src="https://user-images.githubusercontent.com/76781033/211608613-7d465e75-c1b3-424b-b570-8056ea34ff20.png" alt="Image" width="500" height="520">
 
 ## Case Study #8: Fresh Segments
 
