@@ -52,7 +52,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ### My Solutions
 
-- [Click here]
+- [Click here](https://github.com/emmanguyen0602/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Pizza_Runner.sql)
 ## Case Study #3: Foodie-Fi
 
 <img src="https://user-images.githubusercontent.com/81607668/129742132-8e13c136-adf2-49c4-9866-dec6be0d30f0.png" width="500" height="520" alt="image">
